@@ -1,14 +1,26 @@
 [
-  {
-	"name": "Waves",
-	"author": "Saifullah Khan",
-	"url": "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/Waves.png",
-	"collections": "illustration",
-	"downloadable": true,
-	"file_desc" : "",
-	"dimensions" : "1080x2400",
-	"size": "182 KB",
-	"thumbnail" : "hhttps://raw.githubusercontent.com/vistadrops/vistadrops/main/T/Waves.png",
-	"author_url": "https://www.instagram.com/vistadrops/"
-  }
+{
+"name": "Justice League",
+"author": "Saifullah Khan",
+"url": "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/Justice League.png",
+"collections": "Movie",
+"downloadable": true,
+"file_desc" : "",
+"dimensions" : "1506x3264",
+"size": "2.1 MB",
+"thumbnail" : "hhttps://raw.githubusercontent.com/vistadrops/vistadrops/main/T/Justice League.png",
+"author_url": "https://www.instagram.com/vistadrops/"
+},
+{
+"name": "Waves",
+"author": "Saifullah Khan",
+"url": "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/Waves.png",
+"collections": "Abstract",
+"downloadable": true,
+"file_desc" : "",
+"dimensions" : "1080x2400",
+"size": "182 KB",
+"thumbnail" : "hhttps://raw.githubusercontent.com/vistadrops/vistadrops/main/T/Waves.png",
+"author_url": "https://www.instagram.com/vistadrops/"
+}
   ]
