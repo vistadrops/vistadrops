@@ -1298,7 +1298,7 @@
 "collections": "Minimal",
 "downloadable": true,
 "dimensions": "2160x4096",
-"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/32.png",
+"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main/T/32.png",
 "author_url": "https://www.instagram.com/vistadrops/"
 },
 {
@@ -1308,7 +1308,17 @@
 "collections": "Minimal",
 "downloadable": true,
 "dimensions": "2160x4096",
-"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/31.png",
+"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main/T/31.png",
+"author_url": "https://www.instagram.com/vistadrops/"
+},
+{
+"name": "29",
+"author": "Saifullah Khan",
+"url": "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/29.png",
+"collections": "Minimal",
+"downloadable": true,
+"dimensions": "2160x4096",
+"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main/T/30.png",
 "author_url": "https://www.instagram.com/vistadrops/"
 },
 {
@@ -1378,7 +1388,7 @@
 "collections": "Minimal",
 "downloadable": true,
 "dimensions": "2160x4096",
-"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/23.png",
+"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main//T/23.png",
 "author_url": "https://www.instagram.com/vistadrops/"
 },
 {
@@ -1388,7 +1398,7 @@
 "collections": "Minimal",
 "downloadable": true,
 "dimensions": "2160x4096",
-"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main//W/22.png",
+"thumbnail" : "https://raw.githubusercontent.com/vistadrops/vistadrops/main/T/22.png",
 "author_url": "https://www.instagram.com/vistadrops/"
 },
 {
